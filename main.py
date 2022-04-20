@@ -1,4 +1,3 @@
-#Step 5
 #import the clear function to clear the hangman after each try
 from replit import clear
 #import random module so we can choose a random word from hangman_words.py
